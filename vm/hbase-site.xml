@@ -1,0 +1,11 @@
+<configuration>
+<property>
+    <name>hbase.rootdir</name>
+    <value>file:///home/vagrant/data/hbase</value>
+  </property>
+  <property>
+    <name>hbase.zookeeper.property.dataDir</name>
+    <value>/home/vagrant/data/zookeeper</value>
+  </property>
+</configuration>
+
